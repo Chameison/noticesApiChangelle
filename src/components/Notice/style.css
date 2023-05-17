@@ -1,7 +1,6 @@
 
 .card{
   margin: 0 auto;
-  width: 70rem;
   display: flex;
   flex-direction: column;
   background-color: #505050;
@@ -9,7 +8,7 @@
 
 }
 .card img{
-  width: 70rem;
+  max-width: 70rem;
 }
 .card-content{
   margin: 2rem 2rem;
