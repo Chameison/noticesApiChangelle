@@ -1,4 +1,3 @@
-import { useState } from "react";
 
 import "./assets/global.css";
 import Notice from "./components/Notice";
